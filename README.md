@@ -55,17 +55,10 @@ Neetcode Blind 75 provided a learning organizational structure for navigating th
 
 ---
 
-## BLIND 75 by category
+## Naming Convention & Architecture
 
-### Arrays & Hashing
+probs/[category]/[leet-num]-[leet-name]/chal-[chal-attempt-number]
 
-|            |                              |
-| ---------- | ---------------------------- |
-| **EASY**   | Contains Duplicate           |
-| **EASY**   | Valid Anagram                |
-| **EASY**   | Two Sum                      |
-| **MEDIUM** | Group Anagrams               |
-| **MEDIUM** | Top K Frequent Elements      |
-| **MEDIUM** | Product of Array Except Self |
-| **MEDIUM** | Encode And Decode Strings    |
-| **MEDIUM** | Longest Consecutive Sequence |
+**Ex:**
+
+probs/arrays/217-contains-duplicate/chal-01.js
