@@ -25,15 +25,15 @@
 
 Neetcode Blind 75 provided a learning organizational structure for navigating the Leetcode.com Blind 75 coding interview questions.
 
+![Screenshot: Needcode Blind 75 - Arrays & Hashing](img/screens/screen-neetcode-blind-75-01-arrays.png)
+
 ## Code Challenges List
 
 - [probs/prob-list.md](probs/prob-list.md)
 
 ### Materials/References
 
-- **Wordplay file:** https://paper.dropbox.com/doc/Programming-practice-problems-Qp6jAVBXAuDZWiz5x6r9J
-- **sowpods file:** - https://www.dropbox.com/s/qkg62nkh483g635/sowpods.txt?dl=0
-
+- **sowpods file:** Word list (all caps) for testing against
 
 ## Requires
 * Browser opened to a YouTube video with developer console exposed.
