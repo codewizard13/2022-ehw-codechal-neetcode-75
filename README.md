@@ -25,12 +25,9 @@
 
 Neetcode Blind 75 provided a learning organizational structure for navigating the Leetcode.com Blind 75 coding interview questions.
 
+## Code Challenges List
 
-
-
-## Included Scripts
-
-- N/A
+- [probs/prob-list.md](probs/prob-list.md)
 
 ### Materials/References
 
