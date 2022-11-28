@@ -2,21 +2,19 @@
 
 Filename: chal-01.js
 
-https://leetcode.com/problems/contains-duplicate/
+https://leetcode.com/problems/valid-anagram/
 
 Coding Challenge Set: Neetcode Blind 75
 
 Programmer: Eric Hepperle
-Assignment: Wordplay: What are all of the letters that never appear consecutively in an English word?
-Date Completed: 10/17/22
+Assignment: 42. Valid Anagram
+Date Completed: --
 
 Details:
+Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
-
-
-Demonstrates: Consecutive letters
+Demonstrates: 
 
 Q
 
 */
-
