@@ -1,44 +1,40 @@
-https://leetcode.com/problems/two-sum/
+https://leetcode.com/problems/valid-palindrome/
 
-1. Two Sum
+125. Valid Palindrome
 Easy
 
-40582
+5431
 
-1303
+6317
 
 Add to List
 
 Share
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-
-You can return the answer in any order.
+Given a string s, return true if it is a palindrome, or false otherwise.
 
  
 
 Example 1:
 
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
 Example 2:
 
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
 Example 3:
 
-Input: nums = [3,3], target = 6
-Output: [0,1]
+Input: s = " "
+Output: true
+Explanation: s is an empty string "" after removing non-alphanumeric characters.
+Since an empty string reads the same forward and backward, it is a palindrome.
  
 
 Constraints:
 
-2 <= nums.length <= 104
--109 <= nums[i] <= 109
--109 <= target <= 109
-Only one valid answer exists.
- 
-
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+1 <= s.length <= 2 * 105
+s consists only of printable ASCII characters.
